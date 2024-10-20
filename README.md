@@ -85,7 +85,8 @@
 <br>
 
 ## 🎒 Образование
-
+[<img src="certificate_full_rus.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/vitaliy-zaharov140292-qa/vitaliy-zaharov140292-qa/refs/heads/main/certificate_full_rus.png)
+[<img src="/letter.jpg" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/vitaliy-zaharov140292-qa/vitaliy-zaharov140292-qa/refs/heads/main/letter.jpg)
 
 <br>
 <br>
