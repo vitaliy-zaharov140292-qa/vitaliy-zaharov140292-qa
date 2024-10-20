@@ -80,6 +80,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
+[<img src="/vitalij-zigmund.online.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/vitaliy-zaharov140292-qa/vitaliy-zaharov140292-qa/refs/heads/main/vitalij-zigmund.online.png)
 
 <br>
 
