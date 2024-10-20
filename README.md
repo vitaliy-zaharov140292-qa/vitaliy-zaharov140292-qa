@@ -1,6 +1,8 @@
 ## Привет！ 👋
 Меня зовут Виталий, я QA Engineer
 
+![Profile_views](https://komarev.com/ghpvc/?username=vitaliy-zaharov140292-pilot&color=green&style=for-the-badge)
+
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=vitaliy-zaharov140292-qa)
