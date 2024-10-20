@@ -1,4 +1,3 @@
-![Profile_views](https://komarev.com/ghpvc/?username=vitaliy-zaharov140292-pilot&color=green&style=for-the-badge)
 
 ## Привет！ 👋
 Меня зовут Виталий, я QA Engineer
@@ -99,3 +98,5 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/vitaliy_zkhr)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
+
+![Profile_views](https://komarev.com/ghpvc/?username=vitaliy-zaharov140292-pilot&color=green&style=for-the-badge)
