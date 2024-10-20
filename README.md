@@ -99,4 +99,3 @@
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
 
-![Profile_views](https://komarev.com/ghpvc/?username=vitaliy-zaharov140292-pilot&color=green&style=for-the-badge)
