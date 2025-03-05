@@ -83,7 +83,7 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/vitalij-zigmund.online.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/vitaliy-zaharov140292-qa/vitaliy-zaharov140292-qa/refs/heads/main/vitalij-zigmund.online.png)
-
+[<img src="/vitalij_zaharov-bitva_pokemonov_novyj_reakt.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/vitaliy-zaharov140292-qa/vitaliy-zaharov140292-qa/refs/heads/main/vitalij_zaharov-bitva_pokemonov_novyj_reakt.png)
 <br>
 
 ## 🎒 Образование
